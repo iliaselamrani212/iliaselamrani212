@@ -1,7 +1,8 @@
 
 
-<img src="https://github.com/user-attachments/assets/0e838321-ab7f-4705-8cb8-0a262d6d371a" width="180" align="left" />
- 👋 Hi, I'm Ilias El Amrani
+<img src="https://github.com/user-attachments/assets/0e838321-ab7f-4705-8cb8-0a262d6d371a" width="180" align="left" style="margin-right:20px;" />
+
+<h2>👋 Hi, I'm <b>Ilias El Amrani</b></h2>
 
 🎓 Computer Science & AI  
 🤖 Machine Learning & Data Science enthusiast
