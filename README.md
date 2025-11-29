@@ -9,7 +9,7 @@
 ## 🔭 Current Focus
 
 - 📊 End-to-end ML pipelines (EDA → training → deployment)
-- 🤖 Ensemble learning & model tuning
+- 🤖 model tuning
 - 🧩 Feature engineering & preprocessing
 - 🌍 Real-world ML projects
 
