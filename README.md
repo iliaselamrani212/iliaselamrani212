@@ -1,7 +1,14 @@
 # 👋 Hi, I'm Ilias El Amrani
 
 
-![PcUC](https://github.com/user-attachments/assets/0e838321-ab7f-4705-8cb8-0a262d6d371a)
+<div style="display:flex; align-items:center; gap:15px;">
+  <img src="https://github.com/user-attachments/assets/0e838321-ab7f-4705-8cb8-0a262d6d371a" width="180" />
+  <p>
+    Ton texte ici ✍️  
+    <br>
+    Tu peux écrire sur plusieurs lignes sans problème.
+  </p>
+</div>
 
 🎓 Student Engineer in Computer Science & AI  
 🤖 Machine Learning & Data Science enthusiast  
