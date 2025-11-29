@@ -8,9 +8,6 @@
 
 <td>
 
-👋 **Hello! I'm Younes, Java Developer & Software Engineering Student**  
-Welcome to my GitHub Profile!
-
 🎓 **Student Engineer in Computer Science & AI**  
 🤖 **Machine Learning & Data Science enthusiast**
 
