@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Ilias El Amrani
 
-<table>
+<table cellpadding="0" cellspacing="0">
 <tr>
 <td>
-  <img src="https://github.com/user-attachments/assets/0e838321-ab7f-4705-8cb8-0a262d6d371a" width="180"/>
+  <img src="https://github.com/user-attachments/assets/0e838321-ab7f-4705-8cb8-0a262d6d371a" width="180" />
 </td>
 
-<td>
+<td style="padding-left:15px;">
 
 ### 👋 Hello, I'm Younes
 
@@ -17,6 +17,7 @@ Java Developer & Software Engineering Student
 </td>
 </tr>
 </table>
+
 
 
 
