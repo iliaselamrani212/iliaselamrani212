@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Ilias El Amrani
-![WhatsApp Image 2025-11-28 at 16 14 23](https://github.com/user-attachments/assets/5a16cb7b-669c-4be0-90e8-f741d08dfbcb)
+<p align="center">
+  <img src="assets/avatar.png" width="180" alt="Developer Avatar"/>
+</p>
+
 
 🎓 Student Engineer in Computer Science & AI  
 🤖 Machine Learning & Data Science enthusiast  
