@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ilias El Amrani
 
-![4I9G](https://github.com/user-attachments/assets/d6c03821-41ac-41df-b8c6-15e12465477e)
+<div hight='180'>![4I9G](https://github.com/user-attachments/assets/d6c03821-41ac-41df-b8c6-15e12465477e)</div>
 
 🎓 Student Engineer in Computer Science & AI  
 🤖 Machine Learning & Data Science enthusiast  
