@@ -1,13 +1,13 @@
 <img src="https://github.com/user-attachments/assets/0e838321-ab7f-4705-8cb8-0a262d6d371a" width="180" align="left" style="margin-right:20px;" />
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-<h2>👋 Hi, I'm <b>Ilias El Amrani</b></h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-🎓 Computer Science & AI  
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<h2>👋 Hi, I'm <b>Ilias El Amrani</b></h2>
 
-🤖 Machine Learning & Data Science enthusiast
+
+&nbsp;&nbsp;&nbsp;&nbsp;🎓 Computer Science & AI  
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;🤖 Machine Learning & Data Science enthusiast
 
 <br clear="left"/>
 
