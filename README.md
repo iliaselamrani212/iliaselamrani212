@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Ilias El Amrani
-<p align="center">
-  <img src="avatar.png" width="250"/>
-</p>
+<iframe src="https://gifer.com/embed/4I9G" width=480 height=320.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
 
 
 🎓 Student Engineer in Computer Science & AI  
