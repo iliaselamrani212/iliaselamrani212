@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ilias El Amrani
 
-<img src="![PcUC](https://github.com/user-attachments/assets/76be0d29-6ac5-4293-81f2-9690d4220555)
-" width="150" />
+<img src="https://github.com/user-attachments/assets/76be0d29-6ac5-4293-81f2-9690d4220555)" width="150" />
 
 
 🎓 Student Engineer in Computer Science & AI  
