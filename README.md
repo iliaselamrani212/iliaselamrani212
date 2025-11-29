@@ -2,7 +2,7 @@
 
 🎓 Student Engineer in Computer Science & AI  
 🤖 Machine Learning & Data Science enthusiast  
-⚡ Energy Optimization through AI  
+ 
 
 ---
 
