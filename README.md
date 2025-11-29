@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ilias El Amrani
-<div style="padding-top:66.667%;position:relative;"><iframe src="https://gifer.com/embed/4I9G" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
+![4I9G](https://github.com/user-attachments/assets/d6c03821-41ac-41df-b8c6-15e12465477e)
 
 🎓 Student Engineer in Computer Science & AI  
 🤖 Machine Learning & Data Science enthusiast  
