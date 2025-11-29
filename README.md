@@ -1,9 +1,10 @@
 
 
-<img src="https://github.com/user-attachments/assets/0e838321-ab7f-4705-8cb8-0a262d6d371a" width="180" align="left"  />
+<img src="https://github.com/user-attachments/assets/0e838321-ab7f-4705-8cb8-0a262d6d371a" width="180" align="left" />
 
-<h2>👋 Hi, I'm <b>Ilias El Amrani</b></h2>
+### 👋 Hello, I'm Younes
 
+Java Developer & Software Engineering Student  
 🎓 Computer Science & AI  
 🤖 Machine Learning & Data Science enthusiast
 
