@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ilias El Amrani
 <p align="center">
-  <img src="assets/avatar.png" width="250"/>
+  <img src="avatar.png" width="250"/>
 </p>
 
 
