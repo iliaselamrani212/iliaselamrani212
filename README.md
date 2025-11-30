@@ -38,17 +38,6 @@
 
 Predicting building electricity usage using the ASHRAE Kaggle dataset.
 
-**Models used:**
-- ExtraTrees Regressor  
-- Gradient Boosting Regressor  
-- Spline + Ridge Regression  
-- Weighted Voting Ensemble
-
-**Tech stack:**
-- Python, Scikit-learn, Pandas, NumPy
-- Streamlit Web App
-- GridSearchCV & RandomizedSearchCV
-
 👉 Repository:  
 https://github.com/iliaseIamrani212/electricity-prediction-ml
 
