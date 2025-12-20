@@ -22,13 +22,7 @@
 
  
 
----
-# 👋 Hi, I'm Ilias El Amrani
 
-🎓 Student | 🤖 AI & Machine Learning Enthusiast | 📱 Flutter Developer  
-Passionate about building data-driven solutions and real-world applications.
-
----
 
 ## 🚀 About Me
 - 🎓 Student at **ENIAD**
