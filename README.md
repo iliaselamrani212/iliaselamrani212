@@ -23,59 +23,79 @@
  
 
 ---
+# 👋 Hi, I'm Ilias El Amrani
 
-## 🔭 Current Focus
-
-- 📊 End-to-end ML pipelines (EDA → training → deployment)
-- 🤖 model tuning
-- 🧩 Feature engineering & preprocessing
-- 🌍 Real-world ML projects
+🎓 Student | 🤖 AI & Machine Learning Enthusiast | 📱 Flutter Developer  
+Passionate about building data-driven solutions and real-world applications.
 
 ---
 
-## 🚀 Featured Project
-
-### ⚡ Building Energy Consumption Prediction
-
-Predicting building electricity usage using the ASHRAE Kaggle dataset.
-
-👉 Repository:  
-https://github.com/iliaseIamrani212/electricity-prediction-ml
+## 🚀 About Me
+- 🎓 Student at **ENIAD**
+- 🤖 Interested in **Machine Learning, Data Science & AI**
+- 📱 Developing **cross-platform mobile apps with Flutter**
+- 📊 Kaggle Playground participant
+- 💡 I enjoy turning ideas into practical projects
 
 ---
 
-## 🛠 Skills
+## 🛠️ Tech Stack
 
 **Languages**
 - Python
+- Dart
+- SQL
 
-**Machine Learning**
-- Supervised Learning
-- Ensemble models
-- Cross-validation
-- Hyperparameter tuning
-
-**Data**
-- Pandas, NumPy, Feature Engineering
-
-**Visualization**
+**Machine Learning / Data Science**
+- Scikit-learn
+- Pandas, NumPy
 - Matplotlib, Seaborn
+- Jupyter Notebook
 
-**Deployment**
-- Streamlit
-- Joblib pipelines
+**Mobile Development**
+- Flutter
+- Firebase
+- REST APIs
+
+**Tools**
+- Git & GitHub
+- Kaggle
+- VS Code
 
 ---
 
-## 📚 Currently learning
+## 📌 Featured Projects
 
-- MLOps & model versioning
-- Deep Learning fundamentals
-- Cloud ML deployment
+### 🔬 Diabetes Prediction (ML)
+- Kaggle Playground Series project
+- Data preprocessing, feature engineering, model training
+- Algorithms: Logistic Regression, Random Forest, Ensemble methods  
+🔗 https://github.com/iliaselamrani212/Diabetes-Prediction
 
 ---
 
-## 📫 Connect with me
+### ⚡ Electricity Consumption Prediction
+- Machine learning regression project (ASHRAE dataset)
+- Time series analysis & feature engineering  
+🔗 https://github.com/iliaselamrani212/electricity-prediction-ml
 
-🔗 LinkedIn: https://linkedin.com/in/iliaselamrani  
-📂 GitHub: https://github.com/iliaseIamrani212
+---
+
+### 📱 Smart Library App (Flutter – Team Project)
+- Collaborative Flutter application (3 developers)
+- Role: Flutter Developer
+- UI development, theme customization, bug fixing  
+🔒 Private repository (available upon request)
+
+---
+
+## 📈 GitHub Stats
+![Ilias's GitHub stats](https://github-readme-stats.vercel.app/api?username=iliaselamrani212&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/iliaselamrani
+- GitHub: https://github.com/iliaselamrani212
+
+⭐ Feel free to explore my repositories and connect with me!
