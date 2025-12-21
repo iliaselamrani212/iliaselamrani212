@@ -49,7 +49,7 @@
 **Mobile Development**
 - Flutter
 - Firebase
-- REST APIs
+  
 
 **Tools**
 - Git & GitHub
@@ -77,8 +77,7 @@
 
 ### 📱 Smart Library App (Flutter – Team Project)
 - Collaborative Flutter application (3 developers)
-- Role: Flutter Developer
-- UI development, theme customization, bug fixing  
+- Role: Flutter Developer  
 🔗 https://github.com/AmineElAtrache/smart_library
 
 ---
