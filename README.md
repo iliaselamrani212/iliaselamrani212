@@ -79,7 +79,7 @@
 - Collaborative Flutter application (3 developers)
 - Role: Flutter Developer
 - UI development, theme customization, bug fixing  
-🔗 Private repository (available upon request)
+🔗 https://github.com/AmineElAtrache/smart_library
 
 ---
 
