@@ -63,7 +63,7 @@
 ### 🔬 Diabetes Prediction (ML)
 - Kaggle Playground Series project
 - Data preprocessing, feature engineering, model training
-- Algorithms: Logistic Regression, Random Forest, Ensemble methods  
+- Algorithms: XGBoost, CatBoost , LightGBM, Ensemble methods  
 🔗 https://github.com/iliaselamrani212/Diabetes-Prediction
 
 ---
@@ -79,7 +79,7 @@
 - Collaborative Flutter application (3 developers)
 - Role: Flutter Developer
 - UI development, theme customization, bug fixing  
-🔒 Private repository (available upon request)
+🔗 Private repository (available upon request)
 
 ---
 
