@@ -27,8 +27,6 @@
 ## 🚀 About Me
 - 🎓 Student at **ENIAD**
 - 🤖 Interested in **Machine Learning, Data Science & AI**
-- 📱 Developing **cross-platform mobile apps with Flutter**
-- 📊 Kaggle Playground participant
 - 💡 I enjoy turning ideas into practical projects
 
 ---
