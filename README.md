@@ -37,12 +37,12 @@
 - Python
 - Dart
 - SQL
+- java
 
 **Machine Learning / Data Science**
-- Scikit-learn
+- Scikit-learn , Pytorch
 - Pandas, NumPy
-- Matplotlib, Seaborn
-- Jupyter Notebook
+
 
 **Mobile Development**
 - Flutter
