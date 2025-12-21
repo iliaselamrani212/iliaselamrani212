@@ -46,7 +46,7 @@
 
 **Mobile Development**
 - Flutter
-- Firebase
+
   
 
 **Tools**
