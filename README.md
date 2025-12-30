@@ -8,7 +8,7 @@
  
 
  
-&nbsp;&nbsp;&nbsp;&nbsp;🎓  AI  and data science
+&nbsp;&nbsp;&nbsp;&nbsp;🎓  AI  and data science 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;🤖 Machine Learning & Data Science enthusiast
