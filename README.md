@@ -7,7 +7,7 @@
 
 
 
-
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;🎓  AI  and data science
 
 
