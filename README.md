@@ -14,7 +14,6 @@
 
 - 🎓 Student at **ENIAD** — AI & Data Science
 - 🤖 Passionate about **Machine Learning, Deep Learning & LLM Applications**
-- 📖 Read **Hands-On Machine Learning with PyTorch** (all 15 chapters — fundamentals to transformers)
 - 🔗 Building **RAG pipelines** with LangChain LCEL + Ollama (100% local)
 - 💡 I enjoy turning ideas into real, practical AI projects
 
