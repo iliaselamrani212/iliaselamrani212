@@ -35,12 +35,10 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **Concepts mastered:**
-- Classical ML: Linear/Logistic Regression, Decision Trees, Random Forests, XGBoost, CatBoost, LightGBM
+- Classical ML
 - Deep Learning: CNNs, RNNs, LSTMs, Transformers, BERT, GPT
-- Transfer Learning, Fine-tuning (SFT, RLHF, DPO)
+- Transfer Learning, Fine-tuning)
 - Computer Vision: Object Detection, Segmentation, ResNet
-- NLP: Attention Mechanisms, Encoder-Decoder, Seq2Seq
-- Dimensionality Reduction, Unsupervised Learning
 
 ### 🔗 LLM & RAG Stack
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
