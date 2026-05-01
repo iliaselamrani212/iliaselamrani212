@@ -14,7 +14,7 @@
 
 - 🎓 Student at **ENIAD** — AI & Data Science
 - 🤖 Passionate about **Machine Learning, Deep Learning & LLM Applications**
-- 🔗 Building **RAG pipelines** with LangChain LCEL + Ollama (100% local)
+- 🔗 Building **RAG pipelines** with LangChain 
 - 💡 I enjoy turning ideas into real, practical AI projects
 
 ---
